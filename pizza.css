@@ -1,0 +1,13 @@
+#h{
+    text-align: center;
+    font-size: 66px;
+    color:rgb(0, 179, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    opacity: 0.4;
+}
+body{
+    background-color: #4e4f59;
+}
+#id{
+    font-size: x-large;
+}
